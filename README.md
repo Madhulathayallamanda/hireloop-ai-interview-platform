@@ -5,6 +5,52 @@ JWT authentication, role-based access control, AI evaluation engine, and analyti
 
 ---
 
+## 🚀 Features
+
+* AI-powered mock interviews (behavioral + technical)
+* Real-time answer evaluation using STAR framework
+* Personalized feedback with scoring breakdown
+* Company-specific interview simulation (Google, Amazon, etc.)
+* Performance analytics dashboard
+
+---
+
+## Screenshots
+
+### 🔐 Authentication (Login Page)
+
+![Login](screenshots/login.jpeg)
+
+---
+
+### 📊 Dashboard Overview
+
+![Dashboard](screenshots/dashboard.jpeg)
+
+---
+
+### ⚙️ Configure Interview
+
+![Configure](screenshots/configure.jpeg)
+
+---
+
+### 🤖 AI Interview Experience
+
+![Interview](screenshots/interview.jpeg)
+
+---
+
+### 📈 AI Evaluation & Feedback
+
+![Evaluation](screenshots/evaluation.jpeg)
+
+---
+
+### 🏁 Final Results
+
+![Results](screenshots/result.jpeg)
+
 ## 🗂 Project Structure
 
 ```
@@ -37,8 +83,6 @@ intrvw-ai/
     │   └── api.js              ← Axios API service
     └── package.json
 ```
-
----
 
 ## 🖥 Prerequisites — Install These First
 
